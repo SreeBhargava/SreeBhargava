@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SreeBhargava
 -  I am a B.Tech graduate in Electronics and Communication Engineering from JawaharlalNehruTechnologicalUniversity Anantapur, India
-- 👀 I’m certified and experienced in Blue prism and experienced in Cortex Intelligent Automation
+- 👀 I’m certified and experienced in Blue prism and experienced in Cortex Intelligent Automation. Both being Robotic Process Automation Tools
 - 🌱 I finished Executive PG in Artificial Intelligence and Machine Learning from University of Texas at Austin
 - 💞️ I’m looking to collaborate on python and Blue prism
 - 📫 How to reach me:   on whatsapp - 9441792562
